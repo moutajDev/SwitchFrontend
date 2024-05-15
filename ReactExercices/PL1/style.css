@@ -1,0 +1,38 @@
+
+h1 span {
+    padding-bottom: 2rem;
+    border-bottom: 2px solid lightgray;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.hours {
+    font-size: 1rem;
+    margin-top: 2.5rem;
+   padding-bottom: 0.5rem;
+    color: black;
+}
+
+.university {
+    font-size: 1rem;
+    margin-top: 1rem;
+    padding-bottom: 0.5rem;
+    color: black;
+}
+
+p {
+    margin: 0.3rem 0 ;
+}
+
+body{
+    text-align: right;
+    font-family: "Times New Roman", sans-serif;
+    margin: 1rem;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+
