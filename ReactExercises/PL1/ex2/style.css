@@ -1,0 +1,17 @@
+
+
+.day {
+    max-width: 50%;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid lightgray;
+}
+
+.day span {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
