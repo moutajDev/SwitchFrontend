@@ -1,0 +1,23 @@
+#url_js{
+    font-weight: bold;
+}
+
+#protocol_js {
+    font-weight: bold;
+}
+
+
+.url{
+line-height: 0.2;
+    margin-bottom: 1.2rem;
+}
+
+.browser {
+    margin-bottom: 1.2rem;
+}
+
+.measures {
+    line-height: 0.2;
+    margin-bottom: 1.2rem;
+}
+
