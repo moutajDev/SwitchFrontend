@@ -1,0 +1,14 @@
+p {
+    margin-top: 0.7rem;
+    margin-bottom:0;
+    line-height: 1px;
+}
+
+ .hobbies {
+     margin-bottom: 0.5rem;
+ }
+
+.name, .email, .phone, .birthday, .gender, .academic, .address{
+    margin-bottom: 1.3rem;
+}
+
